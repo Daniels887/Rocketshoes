@@ -1,4 +1,4 @@
-# rocketshoes
+# Rocketshoes
 
 ## Lista de depêndencias utilizadas
 - Eslint
