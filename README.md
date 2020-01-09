@@ -8,5 +8,6 @@
 - Babel-eslint
 - React-router-dom
 - Styled-components
+- Polished 
 
 > Que a força esteja com você
